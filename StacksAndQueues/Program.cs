@@ -17,6 +17,8 @@ namespace StacksAndQueues
             stacks.Push(30);
             stacks.Push(56);
             stacks.Display();
+            stacks.IsEmopty();
+            stacks.Display();
 
             Console.ReadLine();
         }
